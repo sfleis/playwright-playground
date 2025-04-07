@@ -31,14 +31,13 @@ export default defineConfig({
       },
       dependencies: ['setup'], // Ensure setup test runs before this project
     },
-  
   ],
 
   // Optional: Additional config for a dev server
   // webServer: {
-  //   command: 'npm run start', 
-  //   url: 'http://127.0.0.1:3000', 
-  //   reuseExistingServer: !process.env.CI, 
+  //   command: 'npm run start',
+  //   url: 'http://127.0.0.1:3000',
+  //   reuseExistingServer: !process.env.CI,
   // },
 
   /* Test against mobile viewports. */
