@@ -8,6 +8,6 @@ export const userRegistration = {
   userState: 'Vienna',
   userCountry: 'Austria',
   userPhoneNumber: '0910974981',
-  userEmail: `weseyid${Math.floor(Math.random() * 10000)}@evluence.com`, 
+  userEmail: `weseyid${Math.floor(Math.random() * 10000)}@evluence.com`,
   userPassword: 'Wl&ELe2L!',
 };
