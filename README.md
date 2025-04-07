@@ -1,2 +1,1 @@
-# playwright-playground
-
+# Playwright Playground
